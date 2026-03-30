@@ -163,7 +163,6 @@ rm -f webmin-setup-repo.sh
 apt-get update
 apt-get install -y --install-recommends webmin
 
-  apt-get -y install webmin
 	
 	mkdir -p /etc/webmin/authentic-theme
 	cp -r /var/www/html/portal/*  /etc/webmin/authentic-theme
