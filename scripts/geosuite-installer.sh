@@ -5,7 +5,7 @@
 
 # default menu options
 WEBMIN_MODS='geoserver postgis certbot'
-TOMCAT_MAJOR=9
+TOMCAT_MAJOR=10
 JAVA_FLAVOR='OpenJDK'
 GEOSERVER_WEBAPP='Yes'
 
